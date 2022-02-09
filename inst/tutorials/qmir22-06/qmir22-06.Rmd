@@ -17,6 +17,7 @@ library(tidyverse)
 library(broom)
 library(texreg)
 library(margins)
+library(qmir22)
 
 data(df_brexit) 
 data(df_opposition)

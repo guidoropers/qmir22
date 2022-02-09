@@ -17,6 +17,7 @@ library(highlight)
 library(gradethis)
 library(texreg)
 library(tidyverse)
+library(qmir22)
 
 gradethis:: gradethis_setup()
 

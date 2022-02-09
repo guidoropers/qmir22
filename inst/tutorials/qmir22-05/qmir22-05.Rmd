@@ -16,6 +16,8 @@ gradethis::gradethis_setup()
 library(tidyverse)
 library(broom)
 library(texreg)
+library(qmir22)
+
 data(df_opposition) 
 ```
 
